@@ -1,0 +1,4 @@
+# Placeholder build pipeline
+steps:
+  - script: echo "Placeholder build step"
+    displayName: "Build placeholder"

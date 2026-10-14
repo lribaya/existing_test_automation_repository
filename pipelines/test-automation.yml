@@ -1,0 +1,4 @@
+# Placeholder test automation pipeline
+steps:
+  - script: echo "Placeholder test automation step"
+    displayName: "Test automation placeholder"

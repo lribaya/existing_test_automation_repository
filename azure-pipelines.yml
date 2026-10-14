@@ -1,0 +1,10 @@
+# Placeholder Azure Pipelines entry point
+trigger:
+  - main
+
+pool:
+  vmImage: 'windows-latest'
+
+steps:
+  - script: echo "Placeholder pipeline for demonstration"
+    displayName: "Show pipeline placeholder"

@@ -1,0 +1,6 @@
+{
+  "environments": [
+    { "name": "dev", "baseUrl": "https://example.invalid" },
+    { "name": "qa", "baseUrl": "https://example.invalid" }
+  ]
+}

@@ -1,0 +1,15 @@
+# IDE and workspace metadata
+.metadata/
+.settings/
+.project
+.classpath
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Build output
+bin/
+out/
+target/
